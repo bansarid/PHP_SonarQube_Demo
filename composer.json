@@ -1,0 +1,10 @@
+{
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "9.3"
+    },
+    "scripts": {
+        "test": "phpunit",
+        "scan": "sonar-scanner"
+    }
+}
