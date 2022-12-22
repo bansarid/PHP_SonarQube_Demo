@@ -3,6 +3,7 @@
 
 namespace Tests\Unit;
 
+require "D:\Sonarqube_Pocs_Application\PHP_SONARQUBE_POC\src\Math.php";
 use MJ\Math;
 use PHPUnit\Framework\TestCase;
 
